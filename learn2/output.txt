@@ -1,0 +1,6 @@
+MPEG-TS (MPEG-2 Transport Stream)
+589432
+48026311
+640
+272
+h264
