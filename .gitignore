@@ -8,4 +8,9 @@ build/
 *.tmp
 
 *.yuv
+*.mp4
+*.ts
+*.mov
+*.flv
+*.mpg
 
